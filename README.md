@@ -34,7 +34,6 @@
 
 <br/>
 
-[![5o-hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=5o-hyun&hide=stars&count_private=true&show_icons=true&&theme=radical)](https://github.com/5o-hyun/github-readme-stats&hide=stars&count_private=true&show_icons=true&&theme=radical)
 
 </div>
 
