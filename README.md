@@ -23,7 +23,7 @@
 #### [🧩 MEMA](https://github.com/swyp-mema) : 모임을 더 쉽게, Meet Mate (2024.11 ~ 2024.12)
 > 약속의 중간 지점을 계산하고 AI로 핫플레이스를 추천하는 플랫폼
 
-#### [🐾 DoDoseDid](https://github.com/dodoesdid-project) : 두더지 다짐 서비스 (2024.09 ~ 2024.10)
+#### [🐾 두더지](https://github.com/dodoesdid-project) : DoDoseDid 커뮤니티 서비스 (2024.09 ~ 2024.10)
 > 친구들과 함께하는 1일1다짐 두더지(Do Does Did)
 
 #### [🥰 Somelog](https://github.com/5o-hyun/somelog-client) : 커플 다이어리 서비스 (2023.09 ~ 2024.01)
