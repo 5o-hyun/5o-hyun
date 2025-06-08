@@ -14,6 +14,9 @@
 
 <h2>✨ My Personal Projects </h2> 
 
+#### [🐟 붕마카세](https://github.com/bungmakase) : 나만의 붕어빵 아카이브 (2025.01 ~ 2025.03)
+> 위치 지도 기반 아카이빙과 이색적인 붕어빵 도감을 완성해가는 플랫폼 
+
 #### [🍊 황금향](https://github.com/9oormthon-goldroad) : 카카오 구름톤 우수상 수상 (2024.12 ~ 2024.12)
 > 제주 이주 희망 은퇴자를 위한 AI기반 커뮤니티 서비스
 
